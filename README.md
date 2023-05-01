@@ -23,3 +23,6 @@ To visit the website,click on the link given below:
 
 👉 https://textgenie.netlify.app/
 
+I'll also be adding several challenges that I have done on devchallenges.io
+
+
